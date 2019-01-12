@@ -1,7 +1,10 @@
-
-body{
+@font-face{
+	font-family: Roby;
+	scr: url("../fonts/RobyIvanov1.ttf")
+}
+html, body{
 	background-image: url("../img/1.jpg");
 	/*background-repeat: no-repeat;*/
-	font-family: Times New Roman, sans-erif;
+	font-family: 'Roby', sans-erif;
 	font-size:14px:
 }
