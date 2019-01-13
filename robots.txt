@@ -1,0 +1,9 @@
+user-agent: googlebot
+Allow: /css/*.css
+Allow: index.html
+Allow:/fonts/*.ttf
+Disallow:/js/
+Allow:/data1/
+Allow:/engine1/
+Disallow:wowslider.html
+Host: bakum92.github.io/WOWSlider
